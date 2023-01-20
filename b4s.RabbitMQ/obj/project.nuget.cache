@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "13cfxsuzPU1TeDLjuUEGGKGW34dYo8M/ZHbWB0/01EJoZzT31SSkGMUCCZ/jFXE20OyilJIX4YQKL+phxnyfYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IgorDaniel-Masterpla\\source\\repos\\b4s.MessageGateway\\b4s.RabbitMQ\\b4s.RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IgorDaniel-Masterpla\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\IgorDaniel-Masterpla\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\IgorDaniel-Masterpla\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\IgorDaniel-Masterpla\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

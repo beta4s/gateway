@@ -1,0 +1,12 @@
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\bin\Debug\net6.0\b4s.Tools.deps.json
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\bin\Debug\net6.0\b4s.Tools.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\bin\Debug\net6.0\b4s.Tools.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.csproj.AssemblyReference.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.AssemblyInfoInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.AssemblyInfo.cs
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.csproj.CoreCompileInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\refint\b4s.Tools.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\b4s.Tools.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Tools\obj\Debug\net6.0\ref\b4s.Tools.dll

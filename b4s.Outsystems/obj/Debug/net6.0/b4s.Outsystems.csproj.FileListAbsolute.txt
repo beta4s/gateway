@@ -1,0 +1,12 @@
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\bin\Debug\net6.0\b4s.Outsystems.deps.json
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\bin\Debug\net6.0\b4s.Outsystems.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\bin\Debug\net6.0\b4s.Outsystems.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.csproj.AssemblyReference.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.AssemblyInfoInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.AssemblyInfo.cs
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.csproj.CoreCompileInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\refint\b4s.Outsystems.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\b4s.Outsystems.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.Outsystems\obj\Debug\net6.0\ref\b4s.Outsystems.dll

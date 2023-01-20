@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zGeVyWn7FvNgpNB0cDyfswTJcrukkIjLFP56vXV4lnY=",
+  "Source": "b4s.MessageGateway",
+  "BasePath": "_content/b4s.MessageGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

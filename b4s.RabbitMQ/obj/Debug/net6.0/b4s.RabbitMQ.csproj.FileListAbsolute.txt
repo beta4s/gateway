@@ -1,0 +1,17 @@
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.RabbitMQ.deps.json
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.RabbitMQ.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.RabbitMQ.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.Config.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.Tools.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.Config.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\bin\Debug\net6.0\b4s.Tools.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.AssemblyInfo.cs
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.csproj.CopyComplete
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\refint\b4s.RabbitMQ.dll
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\b4s.RabbitMQ.pdb
+C:\Users\IgorDaniel-Masterpla\source\repos\b4s.MessageGateway\b4s.RabbitMQ\obj\Debug\net6.0\ref\b4s.RabbitMQ.dll

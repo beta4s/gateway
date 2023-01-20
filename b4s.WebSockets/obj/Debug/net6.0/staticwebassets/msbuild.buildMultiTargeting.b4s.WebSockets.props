@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\b4s.WebSockets.props" />
+</Project>

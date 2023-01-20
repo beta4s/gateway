@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fM+qmcgHBu0aX/zs5gRJaNyeS3ZG8A/0w9UWo4xqMP4=",
+  "Source": "b4s.WebSockets",
+  "BasePath": "_content/b4s.WebSockets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
